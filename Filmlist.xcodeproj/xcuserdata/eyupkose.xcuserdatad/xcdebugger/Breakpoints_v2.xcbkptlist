@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C76D7EAC-17ED-4FBB-ADAF-BF3643409A1A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "808CCA1C-897F-4BE5-946F-7D5E70C808A6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Filmlist/Service /DownloaderClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "filmDetailDownload(imdbId:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2B87A371-91D0-410D-BB95-031B4BCF52C8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Filmlist/Service /DownloaderClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "filmDetailDownload(imdbId:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0835C029-452F-4013-A86F-A25367E17150"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Filmlist/Service /DownloaderClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "filmDetailDownload(imdbId:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0835C029-452F-4013-A86F-A25367E17150 - 60e4367bf773c73e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Filmlist.DownloaderClient.filmDetailDownload(imdbId: Swift.String, completion: (Swift.Result&lt;Filmlist.FilmDetail, Filmlist.DownloaderClient.DownloaderError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Filmlist"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eyupkose/Desktop/SwiftComplete/Filmlist/Filmlist/Service%20/DownloaderClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "0835C029-452F-4013-A86F-A25367E17150 - 60e4367bf773c73e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Filmlist.DownloaderClient.filmDetailDownload(imdbId: Swift.String, completion: (Swift.Result&lt;Filmlist.FilmDetail, Filmlist.DownloaderClient.DownloaderError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Filmlist"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eyupkose/Desktop/SwiftComplete/Filmlist/Filmlist/Service%20/DownloaderClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0CF03877-44DB-40C0-BCCC-0956D068BD56"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Filmlist/ViewModel/FilmDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "filmDetayiAl(imdbId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C7AF7FAE-ACA0-426C-8EC1-68514A2294ED"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Filmlist/Service /DownloaderClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "filmDetailDownload(imdbId:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C7AF7FAE-ACA0-426C-8EC1-68514A2294ED - f487067db0b89ab9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Filmlist.DownloaderClient.filmDetailDownload(imdbId: Swift.String, completion: (Swift.Result&lt;Filmlist.FilmDetail, Filmlist.DownloaderClient.DownloaderError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Filmlist"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eyupkose/Desktop/SwiftComplete/Filmlist/Filmlist/Service%20/DownloaderClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "572">
+               </Location>
+               <Location
+                  uuid = "C7AF7FAE-ACA0-426C-8EC1-68514A2294ED - 60e4367bf773c73e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Filmlist.DownloaderClient.filmDetailDownload(imdbId: Swift.String, completion: (Swift.Result&lt;Filmlist.FilmDetail, Filmlist.DownloaderClient.DownloaderError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Filmlist"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eyupkose/Desktop/SwiftComplete/Filmlist/Filmlist/Service%20/DownloaderClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "164">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
