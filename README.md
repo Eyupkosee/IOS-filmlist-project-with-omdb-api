@@ -1,8 +1,8 @@
 # IOS filmlist project with omdb api
 
 
-| ![Resim 1](Assets.xcassets/Simulator Screen Shot - iPhone 14 Pro - 2023-09-21 at 15.25.05.png) | ![Resim 2](Assets.xcassets/Simulator Screen Shot - iPhone 14 Pro - 2023-09-21 at 15.25.05.png) |
-|---|---|
+![Ekran Görüntüsü](Assets.xcassets/Simulator Screen Shot - iPhone 14 Pro - 2023-09-21 at 15.25.05.png)
+
  
 ![Simulator Screen Shot - iPhone 14 Pro - 2023-09-21 at 15 25 05](https://github.com/Eyupkosee/IOS-filmlist-project-with-omdb-api/assets/89103093/e69b1b9d-c3d3-4266-a567-e1b4d3218558)
 ![Simulator Screen Shot - iPhone 14 Pro - 2023-09-21 at 15 25 18](https://github.com/Eyupkosee/IOS-filmlist-project-with-omdb-api/assets/89103093/402a771a-cf07-4025-8e87-5929556e8d34)
